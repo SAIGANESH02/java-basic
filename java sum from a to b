@@ -1,11 +1,11 @@
 import java.util.Scanner;
-class sum{
+class s{
 public static void main(String[]args){
  Scanner in=new Scanner(System.in);
  int a=in.nextInt();
  int b=in.nextInt();
- int sum=0;
+ int s=0;
  while(a<=b){
-    sum=sum+a;
+    s=s+a;
      a++;
  }}}
